@@ -2,7 +2,6 @@
 import Hero from "@/components/Hero";
 import Project from "@/components/Project";
 import Contact from "@/components/Contact";
-import Image from "next/image";
 import Skills from "@/components/Skills";
 import About from "@/components/About";
 import Footer from "@/components/Footer";
